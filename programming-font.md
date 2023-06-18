@@ -20,7 +20,7 @@
     - MyricaM.ttc - ASCII文字は Inconsolata、それ以外の文字は[Mgen+](http://jikasei.me/font/mgenplus/)がベース
 - [Cica](https://github.com/miiton/Cica)
 - [tawara氏製作フォント](https://github.com/yuru7)
-    - [HackGen（白源）](https://github.com/yuru7/HackGen), [UDEV Gothic](https://github.com/yuru7/udev-gothic), [PlemolJP](https://github.com/yuru7/PlemolJP), [juisee](https://github.com/yuru7/juisee)
+    - [HackGen（白源）](https://github.com/yuru7/HackGen), [UDEV Gothic](https://github.com/yuru7/udev-gothic), [Firge](https://github.com/yuru7/Firge), [PlemolJP](https://github.com/yuru7/PlemolJP), [juisee](https://github.com/yuru7/juisee)
 
 ## 参考記事
 
