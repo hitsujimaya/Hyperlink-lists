@@ -1,7 +1,7 @@
 # プログラミング用フォント
 
 - プログラミングフォントで重視する機能
-    - 半角と全角の比率が1:2の等幅フォントである(2:3などの比率のフォントもあるので注意が必要)
+    - 半角と全角の比率が1:2の等幅フォントである（2:3などの比率のフォントもあるので注意が必要）
         - 参考: [プログラミング用フォント 2023年版](https://www.chihayafuru.jp/tech/index.php/archives/5952)
     - 0とOと、○と〇、1とIとlと|、一とー、エと工、カと力、ロと口と□、などの似た形の文字を一目で判別しやすい工夫がある
     - 全角の空白が可視化されている
@@ -20,7 +20,42 @@
     - MyricaM.ttc - ASCII文字は Inconsolata、それ以外の文字は[Mgen+](http://jikasei.me/font/mgenplus/)がベース
 - [Cica](https://github.com/miiton/Cica)
 - [tawara氏製作フォント](https://github.com/yuru7)
-    - [HackGen(白源)](https://github.com/yuru7/HackGen), [UDEV Gothic](https://github.com/yuru7/udev-gothic), [Firge](https://github.com/yuru7/Firge), [PlemolJP](https://github.com/yuru7/PlemolJP), [juisee](https://github.com/yuru7/juisee)
+    - [HackGen（白源）](https://github.com/yuru7/HackGen), [UDEV Gothic](https://github.com/yuru7/udev-gothic), [Firge](https://github.com/yuru7/Firge), [PlemolJP](https://github.com/yuru7/PlemolJP), [juisee](https://github.com/yuru7/juisee)
+
+## デザイン比較
+
+### Migu 1M
+![Migu 1M](image/Fonts-Migu1M.gif)
+
+### Ricty Diminished
+![Ricty Diminished](image/Fonts-RictyDiminished.gif)
+
+### Myrica
+![Myrica](image/Fonts-Myrica.gif)
+
+### Myrica M
+![Myrica M](image/Fonts-MyricaM.gif)
+
+### Myrica M
+![Myrica M](image/Fonts-MyricaM.gif)
+
+### Cica
+![Cica](image/Fonts-Cica.gif)
+
+### HackGen（白源）
+![HackGen（白源）](image/Fonts-HackGen.gif)
+
+### UDEV Gothic
+![UDEV Gothic](image/Fonts-UDEVGothic.gif)
+
+### Firge
+![Firge](image/Fonts-Firge.gif)
+
+### PlemolJP
+![PlemolJP](image/Fonts-PlemolJP.gif)
+
+### juisee
+![juisee](image/Fonts-juisee.gif)
 
 ## 参考記事
 
