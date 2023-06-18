@@ -1,4 +1,4 @@
-![](blob/main/image/Fonts-Migu1M.gif)
+![](main/image/Fonts-Migu1M.gif)
 
 # プログラミング用フォント
 
