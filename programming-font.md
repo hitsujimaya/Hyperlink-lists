@@ -36,9 +36,6 @@
 ### Myrica M
 ![Myrica M](image/Fonts-MyricaM.gif)
 
-### Myrica M
-![Myrica M](image/Fonts-MyricaM.gif)
-
 ### Cica
 ![Cica](image/Fonts-Cica.gif)
 
