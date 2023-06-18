@@ -54,9 +54,8 @@
 ### PlemolJP
 ![PlemolJP](image/Fonts-PlemolJP.gif)
 
-### juisee
-![juisee](image/Fonts-juisee.gif)
-
+### Juisee
+![Juisee](image/Fonts-Juisee.gif)
 
 ## 参考記事
 
