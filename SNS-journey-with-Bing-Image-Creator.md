@@ -1,6 +1,6 @@
 # Bing Image Creatorで巡るSNSの旅
 
-<p>この記事は、2023年の[Blueskyアドベントカレンダー](https://adventar.org/calendars/9443)の12月20日のために執筆されました。ゆるい気持ちで読んでみてください。19日の記事は[hakkadaikonさん](https://bsky.app/profile/hakkadaikon.bsky.social)の[Nostr/Bluesky活動年表を作ったので、Blueskyでの活動を振り返ってみる](https://zenn.dev/hakkadaikon/articles/6226ab87529277)でした。</p>
+この記事は、2023年の[Blueskyアドベントカレンダー](https://adventar.org/calendars/9443)の12月20日のために執筆されました。ゆるい気持ちで読んでみてください。19日の記事は[hakkadaikonさん](https://bsky.app/profile/hakkadaikon.bsky.social)の[Nostr/Bluesky活動年表を作ったので、Blueskyでの活動を振り返ってみる](https://zenn.dev/hakkadaikon/articles/6226ab87529277)でした。
 
 ### [Bing Image Creator](https://www.bing.com/images/create)とは？
 <p>この記事の趣旨について先に申し上げておきますと、「BingのImage Creatorを使って、私が想像しているSNSの世界観を一緒に見て回らないか？」です。Bing Image Creatorとは、Microsoft社が手掛ける画像生成AIサービスです。無料で利用でき、成果物のクオリティもかなり高いです。DALL·E3という生成AIを使用しています。</p>
