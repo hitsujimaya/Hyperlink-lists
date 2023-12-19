@@ -68,8 +68,8 @@ Elon Musk氏のTwitter買収、凍結騒ぎ、Xへの転身、課金集客体制
 
 ## おまけ：初めて私が足を踏み入れた新興SNSはNostrでした
 <p>今年の2月3日、Twitterの行く先に不安を感じていた私が、SNSについてTwitterで検索したところ、Damusというクライアントについてのツイートが目に入りました。軽い気持ちで入れたそのクライアントは、Nostrというプロトコルを使用したSNS（として利用できるようにしたアプリ）でありました。みんなで一から居場所を開拓していく感覚が非常に楽しくて、二か月ほど夢中で会話を楽しみました。<br />
-Nostrに足を踏み入れる前から私の最終目的地はBlueskyであり、約束の地でした。無事にBlueskyへ入れたあとも結局はBlueskyに留まることとなりましたが、このNostrでの二か月半は決して忘れません。<br />
-[招待コードもNostrでの交友があったおかげで手に入れることができました。](https://nosli.vercel.app/li/naddr1qqf8wetvvdhk6efdw3hj6cnvw4jhx6meqgs0gzpjuf436yhc5fm30dsxn946aa5tcjmtsmz2xh9gylm0hjl4z8srqsqqqa28jv47ra)</p>
+Nostrに足を踏み入れる前から私の最終目的地はBlueskyであり、約束の地でした。無事にBlueskyへ入れたあとも結局はBlueskyに留まることとなりましたが、このNostrでの二か月半は決して忘れません。</p>
+[招待コードもNostrでの交友があったおかげで手に入れることができました。](https://nosli.vercel.app/li/naddr1qqf8wetvvdhk6efdw3hj6cnvw4jhx6meqgs0gzpjuf436yhc5fm30dsxn946aa5tcjmtsmz2xh9gylm0hjl4z8srqsqqqa28jv47ra)
 
 ![Nostr村](image/BingImageCreator-Nostr.jpg)
 <p>ちなみに、私がまだいた頃のNostrの日本語コミュニティはこんな感じ（をイメージする場所）でした。竹とブロッコリーと、その二つを交雑させた植物である竹ッコリーがミーム化したため、それらの生い茂る森の中に村があり、ダチョウが生息しているカオスな場所です。他にもいろいろあったような気がしますが割愛します！</p>
