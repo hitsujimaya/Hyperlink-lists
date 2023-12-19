@@ -5,9 +5,9 @@
 ### [Bing Image Creator](https://www.bing.com/images/create)とは？
 <p>この記事の趣旨について先に申し上げておきますと、「BingのImage Creatorを使って、私が想像しているSNSの世界観を一緒に見て回らないか？」です。Bing Image Creatorとは、Microsoft社が手掛ける画像生成AIサービスです。無料で利用でき、成果物のクオリティもかなり高いです。DALL·E3という生成AIを使用しています。</p>
 
-<p>![幸せな夫婦](image/BingImageCreator-married-couple.jpg)
+![幸せな夫婦](image/BingImageCreator-married-couple.jpg)
 ![馬と鎧の騎士](image/BingImageCreator-horse-and-knight.jpg)
-上記のような画像を出力することができるサービスです。</p>
+<p>上記のような画像を出力することができるサービスです。</p>
 
 <p>※この記事の画像はすべてBing Image Creatorで生成された画像です。</p>
 
@@ -15,7 +15,7 @@
 <p>さて、みなさんもご存知であろうお話です。<br />
 Elon Musk氏のTwitter買収、凍結騒ぎ、Xへの転身、課金集客体制の強化、などなど2022年から2023年にかけて「かつてTwitterであったSNS」は変貌を遂げました。特に日本は、Twitterのシェア率が高い国であったので、多くの人が影響を受けたことでしょう。</p>
 
-<p>![Twitterから脱出する人々](image/BingImageCreator-Twitter.jpg)</p>
+![Twitterから脱出する人々](image/BingImageCreator-Twitter.jpg)
 
 <p>これを契機に、インターネットでは群雄割拠の新興SNS戦国時代を迎えることとなります。挙げるとキリがないので、めぼしいところをピックアップするならば、ActivityPubの雄Mastodon、日本人避難者が殺到し法人化もしたMisskey.ioを擁するMisskey、Twitterの後釜を狙ってか？資金力のあるMetaが突如立ち上げたThreads、日本人技術者によって生み出されたタイッツー、そしてまったく新しいプロトコルを使用したBluesky、といったところでしょうか。<br />
 これらのSNSのうち三つ（＋おまけ）を、私が持つイメージをBing Image Creatorに作ってもらおうと思います！</p>
@@ -23,14 +23,14 @@ Elon Musk氏のTwitter買収、凍結騒ぎ、Xへの転身、課金集客体制
 ## Bluesky
 <p>今までモチーフに一貫性が乏しいような気がしていたBlueskyです。元々Twitterのプロジェクトとして立ち上げられたはずのこのSNS（プロトコル）は、名前は青空という。鳥（Twitter）が飛ぶための空というコンセプトなのかと思っていました。ところが、分割したPDS名はなぜかきのこ。SNS名に沿って星座とか天体関係の名前にしないの？と思いましたが。正式なアイコンが蝶に決まったらしい…ということで、何となく私の中でBlueskyの世界観が見えました。</p>
 
-<p>![Blueskyの世界観](image/BingImageCreator-Bluesky01.jpg)
-青い空、木陰に生い茂るきのこ、花に集まる蝶たち。何というかこう…ボタニカルでファンタジーな雰囲気を感じました。蝶は転じて妖精さんでもいいと思います。</p>
+![Blueskyの世界観](image/BingImageCreator-Bluesky01.jpg)
+<p>青い空、木陰に生い茂るきのこ、花に集まる蝶たち。何というかこう…ボタニカルでファンタジーな雰囲気を感じました。蝶は転じて妖精さんでもいいと思います。</p>
 
-<p>![投稿している妖精](image/BingImageCreator-Bluesky02.jpg)
-そう、我々は妖精さんだったのかもしれない…。（投稿中の我々の姿）</p>
+![投稿している妖精](image/BingImageCreator-Bluesky02.jpg)
+<p>そう、我々は妖精さんだったのかもしれない…。（投稿中の我々の姿）</p>
 
-<p>![フィードに投稿が載るとき](image/BingImageCreator-Bluesky03.jpg)
-妖精さんが図書館（フィード）に本（投稿）を運んでいくところ。</p>
+![フィードに投稿が載るとき](image/BingImageCreator-Bluesky03.jpg)
+<p>妖精さんが図書館（フィード）に本（投稿）を運んでいくところ。</p>
 
 <p>ファンタジーなSNS…いいじゃないですか。私は好きです。<br />
 虫が苦手なので妖精さんで脳内変換させてもらいました。<br />
@@ -41,11 +41,11 @@ Elon Musk氏のTwitter買収、凍結騒ぎ、Xへの転身、課金集客体制
 昔のMastodonって牧歌的な雰囲気があったと思うのですが、最近の話をMastodon界隈の方に聞くと結構「紛争」とか「戦争」のワードが飛び出してくるので、意外と今は殺伐としているのかもしれない…？（あまりMastodonを見ないのでわかりません教えて偉い人）<br />
 サーバーもたくさんありますし、「サーバーによる」が適切な表現なのでしょう。</p>
 
-<p>![Mastodon初期](image/BingImageCreator-Mastodon01.jpg)
-牧歌的な頃のMastodon。</p>
+![Mastodon初期](image/BingImageCreator-Mastodon01.jpg)
+<p>牧歌的な頃のMastodon。</p>
 
-<p>![Mastodon中期](image/BingImageCreator-Mastodon02.jpg)
-紛争が起きているMastodon。</p>
+![Mastodon中期](image/BingImageCreator-Mastodon02.jpg)
+<p>紛争が起きているMastodon。</p>
 
 <p>![サイバーパンクなMastodon](image/BingImageCreator-Mastodon03.jpg)
 あと、昔も今も開発者さんのいるイメージが強いです。分散型で必ずサーバーを建てる人が必要になるので自然と類は友を呼ぶのでしょうか。（プロンプトにサイバーパンクのイメージを付与）</p>
@@ -60,19 +60,19 @@ Elon Musk氏のTwitter買収、凍結騒ぎ、Xへの転身、課金集客体制
 それは、絵描きさんたちが多い割合で定着したらしいということです。（全部伝聞系ですみません）<br />
 となると、かなり華やかで楽しい場所であることは間違いない！これは、遊園地だな！…ということで私の中のMisskeyはこんな感じですね。</p>
 
-<p>![遊園地](image/BingImageCreator-Misskey01.jpg)
-AI生成あるあるですがモブの顔がテキトーになりがち。</p>
+![遊園地](image/BingImageCreator-Misskey01.jpg)
+<p>AI生成あるあるですがモブの顔がテキトーになりがち。</p>
 
-<p>![若さを感じるMisskey](image/BingImageCreator-Misskey02.jpg)
-学生のキャッキャした若々しい空気感も遊園地に合っているのではないでしょうか。</p>
+![若さを感じるMisskey](image/BingImageCreator-Misskey02.jpg)
+<p>学生のキャッキャした若々しい空気感も遊園地に合っているのではないでしょうか。</p>
 
 ## おまけ：初めて私が足を踏み入れた新興SNSはNostrでした
 <p>今年の2月3日、Twitterの行く先に不安を感じていた私が、SNSについてTwitterで検索したところ、Damusというクライアントについてのツイートが目に入りました。軽い気持ちで入れたそのクライアントは、Nostrというプロトコルを使用したSNS（として利用できるようにしたアプリ）でありました。みんなで一から居場所を開拓していく感覚が非常に楽しくて、二か月ほど夢中で会話を楽しみました。<br />
 Nostrに足を踏み入れる前から私の最終目的地はBlueskyであり、約束の地でした。無事にBlueskyへ入れたあとも結局はBlueskyに留まることとなりましたが、このNostrでの二か月半は決して忘れません。<br />
 [招待コードもNostrでの交友があったおかげで手に入れることができました。](https://nosli.vercel.app/li/naddr1qqf8wetvvdhk6efdw3hj6cnvw4jhx6meqgs0gzpjuf436yhc5fm30dsxn946aa5tcjmtsmz2xh9gylm0hjl4z8srqsqqqa28jv47ra)</p>
 
-<p>![Nostr村](image/BingImageCreator-Nostr.jpg)
-ちなみに、私がまだいた頃のNostrの日本語コミュニティはこんな感じ（をイメージする場所）でした。竹とブロッコリーと、その二つを交雑させた植物である竹ッコリーがミーム化したため、それらの生い茂る森の中に村があり、ダチョウが生息しているカオスな場所です。他にもいろいろあったような気がしますが割愛します！</p>
+![Nostr村](image/BingImageCreator-Nostr.jpg)
+<p>ちなみに、私がまだいた頃のNostrの日本語コミュニティはこんな感じ（をイメージする場所）でした。竹とブロッコリーと、その二つを交雑させた植物である竹ッコリーがミーム化したため、それらの生い茂る森の中に村があり、ダチョウが生息しているカオスな場所です。他にもいろいろあったような気がしますが割愛します！</p>
 
 ## みなさんもBing Image Creatorで遊んでみて！
 <p>人間が描いたわけではない画像生成AIが好きでない方もいらっしゃることでしょう。
